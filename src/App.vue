@@ -1,6 +1,15 @@
 <script setup>
+import Background from "./components/Background.vue";
 </script>
 
 <template>
-  <p class="text-3xl font-semibold">fnsdjfnsdfsdfsdfsd</p>
+  <div>
+    <Background />
+  </div>
 </template>
+
+<style>
+html {
+  background-color: black;
+}
+</style>
