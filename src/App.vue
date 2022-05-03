@@ -1,10 +1,10 @@
 <script setup>
-import Background from "./components/Background.vue";
+import Main from "./components/Main.vue";
 </script>
 
 <template>
   <div>
-    <Background />
+    <Main />
   </div>
 </template>
 
