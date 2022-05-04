@@ -5,7 +5,7 @@ module.exports = {
       screens: {
         mobile: { max: "767px" },
         xl: { min: "1400px" },
-        lg: { min: "1200px" },
+        lg: { min: "1250px" },
         "4k": { min: "1921px" },
       },
       colors: {
