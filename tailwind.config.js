@@ -4,6 +4,11 @@ module.exports = {
     extend: {
       screens: {
         mobile: { max: "767px" },
+        xl: { min: "1400px" },
+      },
+      colors: {
+        pink: "#fd62d5",
+        gray: "#acacac",
       },
     },
   },
