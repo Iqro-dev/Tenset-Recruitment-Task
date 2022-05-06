@@ -13,8 +13,8 @@
         >Another Generic Headline</span
       >
     </div>
-    <div class="w-full">
-      <p class="text-sm text-gray font-['Poppins'] font-normal mx-auto">
+    <div>
+      <p class="text-sm text-gray font-['Poppins'] font-normal">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
         eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
         voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
@@ -27,5 +27,12 @@
         amet,
       </p>
     </div>
+    <div>
+      <Button />
+    </div>
   </div>
 </template>
+
+<script setup>
+import Button from "./Button.vue";
+</script>

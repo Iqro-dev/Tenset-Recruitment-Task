@@ -8,7 +8,7 @@
   </div>
 
   <div
-    class="relative flex flex-row mobile:flex-col-reverse justify-center gap-4 mobile:top-24 md:top-[65vw] px-12 w-full mobile:py-24 md:pb-24"
+    class="relative flex flex-row mobile:flex-col-reverse justify-center gap-12 mobile:top-24 md:top-[65vw] px-12 w-full mobile:py-24 md:pb-24"
   >
     <BottomSection />
   </div>

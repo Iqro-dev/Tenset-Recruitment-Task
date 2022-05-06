@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="21.654" height="18.14" viewBox="0 0 21.654 18.14">
   <g id="Group_329" data-name="Group 329" transform="translate(0.246 0.186)">
     <g id="Group_330" data-name="Group 330" transform="translate(0 0)">
-      <path id="Path_1639" data-name="Path 1639" d="M10.828,17.381.664,5.757,5.26.5H16.395l4.6,5.257Z" transform="translate(-0.247 -0.185)" fill="none" stroke="#fd62d5" stroke-width="1"/>
-      <path id="Path_1640" data-name="Path 1640" d="M10.733,5.757,14.567.5,18.4,5.757" transform="translate(-3.986 -0.185)" fill="none" stroke="#fd62d5" stroke-linejoin="bevel" stroke-width="1"/>
-      <line id="Line_75" data-name="Line 75" x2="20.327" transform="translate(0.418 5.571)" fill="none" stroke="#fd62d5" stroke-width="1"/>
-      <line id="Line_76" data-name="Line 76" x2="5.567" y2="16.881" transform="translate(5.014 0.315)" fill="none" stroke="#fd62d5" stroke-width="1"/>
-      <line id="Line_77" data-name="Line 77" x1="5.567" y2="16.881" transform="translate(10.581 0.315)" fill="none" stroke="#fd62d5" stroke-width="1"/>
+      <path id="Path_1639" data-name="Path 1639" d="M10.828,17.381.664,5.757,5.26.5H16.395l4.6,5.257Z" transform="translate(-0.247 -0.185)" fill="none" stroke="currentColor" stroke-width="1"/>
+      <path id="Path_1640" data-name="Path 1640" d="M10.733,5.757,14.567.5,18.4,5.757" transform="translate(-3.986 -0.185)" fill="none" stroke="currentColor" stroke-linejoin="bevel" stroke-width="1"/>
+      <line id="Line_75" data-name="Line 75" x2="20.327" transform="translate(0.418 5.571)" fill="none" stroke="currentColor" stroke-width="1"/>
+      <line id="Line_76" data-name="Line 76" x2="5.567" y2="16.881" transform="translate(5.014 0.315)" fill="none" stroke="currentColor" stroke-width="1"/>
+      <line id="Line_77" data-name="Line 77" x1="5.567" y2="16.881" transform="translate(10.581 0.315)" fill="none" stroke="currentColor" stroke-width="1"/>
     </g>
   </g>
 </svg>
