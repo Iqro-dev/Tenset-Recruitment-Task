@@ -1,6 +1,8 @@
 <template>
   <div class="flex flex-row mobile:flex-col-reverse">
-    <div class="mobile:w-full w-[55vw] h-full -top-[5vw] overflow-hidden">
+    <div
+      class="mobile:w-full w-[55vw] h-full relative -top-[5vw] overflow-hidden"
+    >
       <img src="../assets/rocket.png" class="w-full mobile:scale-125" />
     </div>
 
