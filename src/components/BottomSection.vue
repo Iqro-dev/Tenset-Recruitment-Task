@@ -7,7 +7,7 @@
       vitae maiores!
     </p>
   </div>
-  <div class="flex flex-col gap-4 md:w-[25rem] mobile:w-full">
+  <div class="flex flex-col gap-8 md:w-[25rem] mobile:w-full">
     <div class="mobile:w-2/3">
       <span class="text-5xl text-white font-['Poppins'] font-bold"
         >Another Generic Headline</span
