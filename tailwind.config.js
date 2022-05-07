@@ -7,6 +7,7 @@ module.exports = {
         md: { min: "901px" },
         xl: { min: "1400px" },
         lg: { min: "1200px" },
+        "2xl": { min: "1800px" },
         "4k": { min: "1921px" },
       },
       colors: {
