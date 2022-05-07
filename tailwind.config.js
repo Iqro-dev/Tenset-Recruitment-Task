@@ -3,9 +3,11 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        mobile: { max: "767px" },
+        mobile: { max: "900px" },
+        md: { min: "901px" },
         xl: { min: "1400px" },
-        lg: { min: "1250px" },
+        lg: { min: "1200px" },
+        "2xl": { min: "1800px" },
         "4k": { min: "1921px" },
       },
       colors: {

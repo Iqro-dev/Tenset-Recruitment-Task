@@ -8,4 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Deploy
 
-[Deploy link](https://shimmering-concha-949268.netlify.app)
+[Deploy Link](https://shimmering-concha-949268.netlify.app/)
